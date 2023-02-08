@@ -1,0 +1,14 @@
+span{
+    padding: 1%;
+    display: inline-block;
+    margin-bottom: 1%;
+}
+Header{
+    padding-bottom: 10px;
+}
+Footer{
+    padding-top:10px;
+}
+button{
+    margin-top: 1%;
+}
